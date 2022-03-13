@@ -19,5 +19,8 @@ jobs:
           sudo apt-get install nodejs >> /dev/null
           node -v
           sudo apt-get install npm >> /dev/null
-          npm init -y
+          cd node-essentials/node-dependencies/3-exercise-package-json
+          # npm init -y
+          npm start
+
       - run: echo "🍏 This job's status is ${{ job.status }}."
