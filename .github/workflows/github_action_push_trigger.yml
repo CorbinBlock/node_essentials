@@ -14,7 +14,10 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - name: Execute shell commands on the runner
         run: |
-          ls ${{ github.workspace }} >> /dev/null
-          sudo apt install node -y
+          ls ${{ github.workspace }}
+          sudo apt update
+          sudo apt install nodejs
+          node -v
+          sudo apt install npm
           npm init -y
       - run: echo "🍏 This job's status is ${{ job.status }}."
