@@ -26,5 +26,11 @@ jobs:
           cd 5-exercise-dependency
           npm install jest --save-dev
           npm run test
+          cd ..
+          cd 7-exercise-dependency-management
+          npm install
+          npm outdated
+          npm update
+          npm install node-fetch@latest lodash@latest
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
