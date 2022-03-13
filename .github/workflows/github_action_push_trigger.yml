@@ -15,9 +15,6 @@ jobs:
       - name: Execute shell commands on the runner
         run: |
           ls ${{ github.workspace }} >> /dev/null
-          sudo apt install neofetch, node, tree >> /dev/null
-          neofetch
-          hostname
-          tree
+          sudo apt install node -y
           npm init -y
       - run: echo "🍏 This job's status is ${{ job.status }}."
