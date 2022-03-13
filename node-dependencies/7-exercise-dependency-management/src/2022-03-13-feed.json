@@ -1,0 +1,132 @@
+[
+  {
+    "type_of": "article",
+    "id": 1019890,
+    "title": "Automatizando tarefas com Go",
+    "description": "Na vida de uma pessoa desenvolvedora, nos deparamos diversas vezes com tarefas monótonas, repetitivas...",
+    "readable_publish_date": "Mar 11",
+    "slug": "automatizando-tarefas-com-go-1cje",
+    "path": "/trybe/automatizando-tarefas-com-go-1cje",
+    "url": "https://dev.to/trybe/automatizando-tarefas-com-go-1cje",
+    "comments_count": 0,
+    "public_reactions_count": 20,
+    "collection_id": null,
+    "published_timestamp": "2022-03-11T17:43:48Z",
+    "positive_reactions_count": 20,
+    "cover_image": null,
+    "social_image": "https://dev.to/social_previews/article/1019890.png",
+    "canonical_url": "https://dev.to/trybe/automatizando-tarefas-com-go-1cje",
+    "created_at": "2022-03-11T17:37:23Z",
+    "edited_at": "2022-03-11T17:52:01Z",
+    "crossposted_at": null,
+    "published_at": "2022-03-11T17:43:48Z",
+    "last_comment_at": "2022-03-11T17:43:48Z",
+    "reading_time_minutes": 3,
+    "tag_list": [
+      "go",
+      "programming",
+      "productivity",
+      "showdev"
+    ],
+    "tags": "go, programming, productivity, showdev",
+    "user": {
+      "name": "Matheus Mina",
+      "username": "mfbmina",
+      "twitter_username": "mfbmina",
+      "github_username": "mfbmina",
+      "website_url": "https://twitter.com/mfbmina",
+      "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--4G7b9S0i--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/829208/0e250ff4-f092-4ba3-81e5-e90d9e90137a.jpeg",
+      "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--DK29olHm--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/829208/0e250ff4-f092-4ba3-81e5-e90d9e90137a.jpeg"
+    },
+    "organization": {
+      "name": "Trybe",
+      "username": "trybe",
+      "slug": "trybe",
+      "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--zfl4Eqkb--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png",
+      "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--703B4uFI--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/organization/profile_image/5302/26258239-4ac6-4d28-b94c-ba6d3f9eabc2.png"
+    },
+    "flare_tag": {
+      "name": "showdev",
+      "bg_color_hex": "#091b47",
+      "text_color_hex": "#b2ffe1"
+    }
+  },
+  {
+    "type_of": "article",
+    "id": 1019188,
+    "title": "TypeScript Union type a deeper look",
+    "description": "The TypeScript Union type is excellent if your type can consist of multiple values/types.  We define...",
+    "readable_publish_date": "Mar 11",
+    "slug": "typescript-union-type-a-deeper-look-2n6p",
+    "path": "/dailydevtips1/typescript-union-type-a-deeper-look-2n6p",
+    "url": "https://dev.to/dailydevtips1/typescript-union-type-a-deeper-look-2n6p",
+    "comments_count": 3,
+    "public_reactions_count": 20,
+    "collection_id": null,
+    "published_timestamp": "2022-03-11T05:23:38Z",
+    "positive_reactions_count": 20,
+    "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ek9JWiwf--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hut0ww0me4fpkbxbu6d4.jpg",
+    "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--ulWGYKdi--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hut0ww0me4fpkbxbu6d4.jpg",
+    "canonical_url": "https://daily-dev-tips.com/posts/typescript-union-type-a-deeper-look/",
+    "created_at": "2022-03-11T05:23:38Z",
+    "edited_at": null,
+    "crossposted_at": null,
+    "published_at": "2022-03-11T05:23:38Z",
+    "last_comment_at": "2022-03-12T07:52:53Z",
+    "reading_time_minutes": 3,
+    "tag_list": [
+      "typescript",
+      "beginners",
+      "javascript"
+    ],
+    "tags": "typescript, beginners, javascript",
+    "user": {
+      "name": "Chris Bongers",
+      "username": "dailydevtips1",
+      "twitter_username": "DailyDevTips1",
+      "github_username": "rebelchris",
+      "website_url": "https://daily-dev-tips.com/",
+      "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--fltgtsOP--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/370165/083a25f4-e79b-42c4-9e5f-0332b834ca5e.png",
+      "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--WRx_peXg--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/370165/083a25f4-e79b-42c4-9e5f-0332b834ca5e.png"
+    }
+  },
+  {
+    "type_of": "article",
+    "id": 1020509,
+    "title": "Writing Architecture Decision Records",
+    "description": "An architecture decision record also known as ADR, is a document that captures an important architecture decision, including the context and the consequences.",
+    "readable_publish_date": "Mar 12",
+    "slug": "writing-architecture-decision-records-3582",
+    "path": "/carloscuesta/writing-architecture-decision-records-3582",
+    "url": "https://dev.to/carloscuesta/writing-architecture-decision-records-3582",
+    "comments_count": 0,
+    "public_reactions_count": 20,
+    "collection_id": null,
+    "published_timestamp": "2022-03-12T11:58:05Z",
+    "positive_reactions_count": 20,
+    "cover_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--YmWmHE9K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8di3spoal8fl38u4w5oe.png",
+    "social_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--cRpWv_oH--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8di3spoal8fl38u4w5oe.png",
+    "canonical_url": "https://carloscuesta.me/blog/writing-architecture-decision-records",
+    "created_at": "2022-03-12T11:58:05Z",
+    "edited_at": null,
+    "crossposted_at": null,
+    "published_at": "2022-03-12T11:58:05Z",
+    "last_comment_at": "2022-03-12T11:58:05Z",
+    "reading_time_minutes": 2,
+    "tag_list": [
+      "adr",
+      "adrs",
+      "documentation"
+    ],
+    "tags": "adr, adrs, documentation",
+    "user": {
+      "name": "Carlos Cuesta",
+      "username": "carloscuesta",
+      "twitter_username": "crloscuesta",
+      "github_username": "carloscuesta",
+      "website_url": "https://carloscuesta.me",
+      "profile_image": "https://res.cloudinary.com/practicaldev/image/fetch/s--XM4ZGgP_--/c_fill,f_auto,fl_progressive,h_640,q_auto,w_640/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/30518/9e3c9d4f-6f3e-40fc-9845-c6629523a33a.jpg",
+      "profile_image_90": "https://res.cloudinary.com/practicaldev/image/fetch/s--XZVDX5O3--/c_fill,f_auto,fl_progressive,h_90,q_auto,w_90/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/30518/9e3c9d4f-6f3e-40fc-9845-c6629523a33a.jpg"
+    }
+  }
+]

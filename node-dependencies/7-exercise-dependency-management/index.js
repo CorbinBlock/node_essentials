@@ -13,4 +13,6 @@ async function run() {
   fs.writeFileSync(path.join(__dirname, `${filePrefix}-feed.json`), JSON.stringify(top5, null, 2));
 }
 
+console.log('Welcome to this application');
+
 run();
