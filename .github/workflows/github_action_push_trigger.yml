@@ -29,7 +29,7 @@ jobs:
           cd ..
           cd 7-exercise-dependency-management
           npm install
-          npm list
+          # Below will trigger failure if the packages are not updated.
           # npm outdated
           npm update
           npm list
