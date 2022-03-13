@@ -29,8 +29,11 @@ jobs:
           cd ..
           cd 7-exercise-dependency-management
           npm install
+          npm list
           # npm outdated
-          # npm update
+          npm update
+          npm list
           npm install node-fetch@latest lodash@latest
+          npm list
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
