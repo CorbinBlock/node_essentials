@@ -24,6 +24,7 @@ jobs:
           npm start
           cd ..
           cd 5-exercise-dependency
+          npm install jest --save-dev
           npm run test
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
