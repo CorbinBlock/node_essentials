@@ -1,7 +1,7 @@
-/*const fetch = require('node-fetch')
+const fetch = require('node-fetch')
 const _ = require('lodash');
 const path = require('path');
-const fs = require('fs');*/
+const fs = require('fs');
 
 async function run() {
   const response = await fetch("https://dev.to/api/articles?state=rising");

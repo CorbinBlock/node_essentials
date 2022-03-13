@@ -34,5 +34,6 @@ jobs:
           npm update
           npm install node-fetch@latest lodash@latest
           npm list
+          npm i node-fetch@2.6.1
           npm start
       - run: echo "🍏 This job's status is ${{ job.status }}."
