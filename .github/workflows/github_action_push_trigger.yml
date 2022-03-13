@@ -20,5 +20,5 @@ jobs:
           node -v
           sudo apt-get install npm >> /dev/null
           npm init -y
-          cat node_essentials/package.json
+          cat package.json
       - run: echo "🍏 This job's status is ${{ job.status }}."
