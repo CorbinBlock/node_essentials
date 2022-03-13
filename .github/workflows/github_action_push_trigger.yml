@@ -23,7 +23,7 @@ jobs:
           # npm init -y
           npm start
           cd ..
-          5-exercise-dependency
+          cd 5-exercise-dependency
           npm run test
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
