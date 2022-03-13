@@ -22,5 +22,8 @@ jobs:
           cd node-dependencies/3-exercise-package-json
           # npm init -y
           npm start
+          cd ..
+          5-exercise-dependency
+          npm run test
 
       - run: echo "🍏 This job's status is ${{ job.status }}."
